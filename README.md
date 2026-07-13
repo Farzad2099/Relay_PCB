@@ -1,4 +1,4 @@
-🔌 4-Channel Relay Board
+<h2>🔌 4-Channel Relay Board</h2>
 
 I'm excited to share one of my latest PCB designs — a custom 4-Channel Relay Board built using through-hole (DIP) components. ⚡
 
@@ -12,13 +12,14 @@ Designing PCBs is always a great opportunity to improve routing skills, componen
 
 <table align="center">
 <tr>
-<td><img src="IMAGE_URL_1" width="250"></td>
-<td><img src="IMAGE_URL_2" width="250"></td>
-<td><img src="IMAGE_URL_3" width="250"></td>
+<td><img src="Schematics/relay2.jpg" width="250"></td>
+<td><img src="Schematics/relay3.jpg" width="250"></td>
+
 </tr>
 </table><br><p align="center">
-<img src="IMAGE_URL_4" width="700">
+<img src="Schematics/relay4.jpg" width="700">
 </p>
----
 
-❤️ Made with love by Farzad.# Relay_PCB
+note : you can use this board with my AVR_PCB repo to test it right here !😄
+
+<h3>❤️ Made with love by Farzad.</h3>
